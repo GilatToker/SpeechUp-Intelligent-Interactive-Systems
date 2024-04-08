@@ -5,6 +5,11 @@
     </td>
   </tr>
 </table> 
+
+# Project Title: Intelligent Interactive System - Final Design Project : SpeechUp
+
+## Description
+
 בפרויקט זה נרצה לתת מענה לבעיה אקטואלית במיוחד בימינו - הסברה ישראלית ותגובה לביטויי אנטישמיות ברשתות החברתיות.
 המערכת שלנו תאפשר למשתמשים שונים , ללא תלות ברמת ההתנסחות, בפערי השפה וברמת הניסיון, ליצור טקסטים איכותיים ורלוונטיים אשר מגבירים חשיפה בעניין הסברה ישראלית. הפתרון שאנו מציעות הוא מערכת חכמה שתומכת בשלל פונקציות, ביניהן: 
 
@@ -17,12 +22,6 @@
 (4) תייצר טקסט חדש לגמרי.
 
 המערכת מבוססת על  LLM אשר יש ביכולו ליצור טקסט מעניין ובהיר ועל דאטהסט שייצרנו ע"י סריקה מ - Reddit. האלמנט הייחודי של המערכת הוא המיקוד בנושא ספציפי - פוסטים פרו ישראליים ברשתות חברתיות . אומנם קיימים פתרונות דומים בסקטורים אחרים, אך הם מכוונים למגזר העסקי , לא מאפשרים להביא לידי ביטוי את הסגנון האישי של המשתמש ונמנעים משיח בנושאים רגישים כמו זה.
-
-# Project Title: Nevonot Enhanced Text Generator
-
-## Description
-
-The Nevonot Enhanced Text Generator is an innovative project that leverages advanced natural language processing (NLP) techniques and the GPT-4 model to interact with and generate textual content. It offers users the ability to generate new posts, rewrite existing text, reply to text, and create content in a specific style directly within a Jupyter Notebook environment.
 
 ## Features
 
