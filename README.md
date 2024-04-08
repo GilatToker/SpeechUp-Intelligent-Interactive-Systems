@@ -19,6 +19,13 @@ n this project, we aim to address a particularly timely issue - Israeli advocacy
 - **Generate New Post**: It can create entirely new text.
 The system is based on an LLM capable of generating interesting and clear text, and on a dataset we created by scanning Reddit. The unique element of the system is its focus on a specific issue - pro-Israeli posts on social media. While similar solutions exist in other sectors, they are aimed at the business sector, do not allow expressing the user's personal style, and avoid discussion on sensitive topics like this one.
 
+<table>
+  <tr>
+    <td>
+      <img src="system_UI.jpg" alt="Alternative text for the image" title="Optional title attribute" width="350"/>
+    </td>
+  </tr>
+</table> 
 
 ## Installation
 
