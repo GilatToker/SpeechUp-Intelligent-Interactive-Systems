@@ -1,5 +1,6 @@
-<img src="logo.jpg" alt="Alternative text for the image" title="Optional title attribute" width="300" height="200"/>
-
+<div style="text-align: center;">
+  <img src="logo.jpg" alt="Alternative text for the image" title="Optional title attribute" width="350"/>
+</div>
 
 בפרויקט זה נרצה לתת מענה לבעיה אקטואלית במיוחד בימינו - הסברה ישראלית ותגובה לביטויי אנטישמיות ברשתות החברתיות.
 המערכת שלנו תאפשר למשתמשים שונים , ללא תלות ברמת ההתנסחות, בפערי השפה וברמת הניסיון, ליצור טקסטים איכותיים ורלוונטיים אשר מגבירים חשיפה בעניין הסברה ישראלית. הפתרון שאנו מציעות הוא מערכת חכמה שתומכת בשלל פונקציות, ביניהן: 
