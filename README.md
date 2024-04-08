@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="logo.jpg" alt="Alternative text for the image" title="Optional title attribute" width="350"/>
+      <img src="logo.jpg" alt="Alternative text for the image" title="Optional title attribute" width="250"/>
     </td>
   </tr>
 </table> 
@@ -22,7 +22,7 @@ The system is based on an LLM capable of generating interesting and clear text, 
 <table>
   <tr>
     <td>
-      <img src="system_UI.jpg" alt="Alternative text for the image" title="Optional title attribute" width="350"/>
+      <img src="system_UI.jpg" alt="Alternative text for the image" title="Optional title attribute" width="850"/>
     </td>
   </tr>
 </table> 
