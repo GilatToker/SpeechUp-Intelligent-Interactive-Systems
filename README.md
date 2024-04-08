@@ -10,7 +10,7 @@
 
 ## Description
 
-n this project, we aim to address a particularly timely issue - Israeli advocacy and responding to expressions of antisemitism on social media. Our system will enable various users, regardless of their level of articulation, language barriers, and experience, to create high-quality and relevant texts that increase exposure to Israeli advocacy. The solution we propose is an intelligent system that supports a variety of functions, including:
+in this project, we aim to address a particularly timely issue - Israeli advocacy and responding to expressions of antisemitism on social media. Our system will enable various users, regardless of their level of articulation, language barriers, and experience, to create high-quality and relevant texts that increase exposure to Israeli advocacy. The solution we propose is an intelligent system that supports a variety of functions, including:
 
 ## Features
 - **Reply to Text**: Given anti-Israeli text, it can generate a responsive text.
@@ -34,8 +34,9 @@ This project utilizes a key data source, reddit_data_IsraelPalestine.csv, which 
 ```bash
 pip install praw nltk openai ipywidgets pandas
 
-To run the project, open the file via jupyter notebook. 
-to insert API key edit the following code line in the 9th cell:
+To run the project, open the file via jupyter notebook for optimal performance. using other programs to open the notebook (such as google collab) might cause the interactions of the program to run suboptimally due to different system components.
+upload the files Nevonot_project.ipynb and logo.jpg in the same folder.
+to insert API key edit the following code line in the 10th cell:
 os.environ["OPENAI_API_KEY"] = "YourKeyHere"
-run all cells except the last one. 
+run all cells.
 once you are finished generating several inputs, run the last cell to view history. 
