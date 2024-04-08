@@ -27,6 +27,8 @@ The system is based on an LLM capable of generating interesting and clear text, 
   </tr>
 </table> 
 
+This project utilizes a key data source, reddit_data_IsraelPalestine.csv, which consists of data we have meticulously web-scraped from Reddit. This dataset plays a crucial role in enhancing the quality and relevance of the generated text by our system. It is designed to make the output more vivid and closely aligned with the current discourse on social media regarding Israeli advocacy and responses to antisemitism.
+
 ## Installation
 
 ```bash
