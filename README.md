@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="text-align: left;">
   <img src="logo.jpg" alt="Alternative text for the image" title="Optional title attribute" width="350"/>
 </div>
 
