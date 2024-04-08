@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="logo.jpg" alt="Alternative text for the image" title="Optional title attribute" width="250"/>
+      <img src="logo.jpg" alt="Alternative text for the image" title="Optional title attribute" width="150"/>
     </td>
   </tr>
 </table> 
