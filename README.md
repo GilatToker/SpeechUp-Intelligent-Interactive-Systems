@@ -10,37 +10,20 @@
 
 ## Description
 
-בפרויקט זה נרצה לתת מענה לבעיה אקטואלית במיוחד בימינו - הסברה ישראלית ותגובה לביטויי אנטישמיות ברשתות החברתיות.
-המערכת שלנו תאפשר למשתמשים שונים , ללא תלות ברמת ההתנסחות, בפערי השפה וברמת הניסיון, ליצור טקסטים איכותיים ורלוונטיים אשר מגבירים חשיפה בעניין הסברה ישראלית. הפתרון שאנו מציעות הוא מערכת חכמה שתומכת בשלל פונקציות, ביניהן: 
-
-(1) בהינתן טקסט אנטי-ישראלי , תדע לייצר טקסט תגובה אליו, 
-
-(2) בהינתן פוסט עבר שלך - תדע לייצר טקסט חדש בהשראת הטקסט שלך, תוך כדי שמירת אלמנטים ייחודיים לך,  
-
-(3) בהינתן וורסיה ראשונית שלך, תדע לשכתב ולייצר פוסט איכותי ותקין ו-
-
-(4) תייצר טקסט חדש לגמרי.
-
-המערכת מבוססת על  LLM אשר יש ביכולו ליצור טקסט מעניין ובהיר ועל דאטהסט שייצרנו ע"י סריקה מ - Reddit. האלמנט הייחודי של המערכת הוא המיקוד בנושא ספציפי - פוסטים פרו ישראליים ברשתות חברתיות . אומנם קיימים פתרונות דומים בסקטורים אחרים, אך הם מכוונים למגזר העסקי , לא מאפשרים להביא לידי ביטוי את הסגנון האישי של המשתמש ונמנעים משיח בנושאים רגישים כמו זה.
+n this project, we aim to address a particularly timely issue - Israeli advocacy and responding to expressions of antisemitism on social media. Our system will enable various users, regardless of their level of articulation, language barriers, and experience, to create high-quality and relevant texts that increase exposure to Israeli advocacy. The solution we propose is an intelligent system that supports a variety of functions, including:
 
 ## Features
+- **Reply to Text**: Given anti-Israeli text, it can generate a responsive text.
+- **My Style**: Given a user's previous post, it can generate new text inspired by your content while maintaining elements unique to you.
+- **Rewrite**: Given your initial version, it can rewrite and create a quality, correct post.
+- **Generate New Post**: It can create entirely new text.
+The system is based on an LLM capable of generating interesting and clear text, and on a dataset we created by scanning Reddit. The unique element of the system is its focus on a specific issue - pro-Israeli posts on social media. While similar solutions exist in other sectors, they are aimed at the business sector, do not allow expressing the user's personal style, and avoid discussion on sensitive topics like this one.
 
-- **Reply to Text**: Generate a contextually relevant reply to the given text input.
-- **My Style**: Create new content that matches the style of the input text.
-- **Rewrite**: Offer a rewritten version of the provided text.
-- **Generate New Post**: Produce completely new content based on a set of predefined criteria.
 
 ## Installation
 
-To run this project, you'll need to have Jupyter Notebook or JupyterLab installed. If you haven't already, you can install Jupyter via Anaconda or pip. Additionally, this project requires Python 3.6 or later.
-
-### Dependencies
-
-Before running the project, install the required Python packages:
-
 ```bash
 pip install praw nltk openai ipywidgets pandas
-
 
 To run the project, open the file via jupyter notebook. 
 to insert API key edit the following code line in the 9th cell:
