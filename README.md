@@ -8,7 +8,7 @@
   </tr>
 </table> 
 
-# Project Title: Intelligent Interactive System - Final Design Project : SpeechUp
+# Intelligent Interactive System - Final Project : SpeechUp
 
 ## Description
 
